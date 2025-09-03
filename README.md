@@ -1,7 +1,7 @@
 
 # Memory Game
 
-Memory game. Get to 18 to win! 
+Memory game.. get to 18 to win! 
 
 Refresh until the images are correct if there's issue.
 
