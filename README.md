@@ -1,12 +1,11 @@
 
 # Memory Game
 
-Memory game with broken images. Refresh until the images are correct.The image API is providing broken ones in the mix. Need to get my
-own images in place for a fix. 
+Memory game built with React. Refresh until the images are correct if issue.
 
 Working highscore with session storage. 
 
-Practicing React. :)
+Practicing React.. 
 
 ## Getting Started
 
