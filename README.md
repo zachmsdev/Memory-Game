@@ -17,6 +17,7 @@ git clone https://github.com/zachmsdev/Memory-Game.git
 cd Memory-Game
 npm install
 npm run dev
+```
 
 ## Live demo
 
