@@ -19,7 +19,7 @@ npm run dev
 
 ## Live demo
 
-Check out the live version here: [https://projectName.app](https://projectName.app)
+Check out the live version here: [https://memory-game52.netlify.app/](https://memory-game52.netlify.app/)
 
 
 
