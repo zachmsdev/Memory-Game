@@ -1,0 +1,23 @@
+
+@use './_colors.scss';
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root, body {
+    min-height: 100vh;
+}
+
+body {
+    background: colors.$mainBG;
+    padding-bottom: 2em;
+}
+
+
+
+
+
+

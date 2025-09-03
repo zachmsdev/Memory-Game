@@ -1,0 +1,47 @@
+@use '../_colors.scss';
+
+header {
+    height: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    // Game Title
+    & h1 {
+        color: colors.$headerText;
+        font-weight: 500;
+        &::after {
+            content: '';
+            display: inline-block;
+            height: 0.75em;
+            width: 0.75em;
+            background-color: salmon;
+            background: url(../../assets/memoryGameLogo.png);
+            background-position: center;
+            background-size: cover;
+            transform: translateX(0.25em) translateY(-0.15em);
+        }
+    }
+}
+
+.scoreBoard {
+    text-align: center;
+    & .currentScore {
+        margin-bottom: 1em;
+        font-weight: 500;
+    }
+    & .highScore {
+        font-weight: 500;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+

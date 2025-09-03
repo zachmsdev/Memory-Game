@@ -1,0 +1,28 @@
+
+@use '../_colors.scss';
+
+// Gameover Styles
+
+.thatsGame {
+    background: colors.$gameoverBG;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    & h2 {
+        color: colors.$gameoverText;
+        font-weight: 500;
+    }
+}
+
+
+
+
+
+
+
