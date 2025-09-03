@@ -2,6 +2,7 @@
 # Memory Game
 
 Memory game. Get to 18 to win! 
+
 Refresh until the images are correct if there's issue.
 
 Working high score with session storage. 
