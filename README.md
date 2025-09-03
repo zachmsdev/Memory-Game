@@ -1,11 +1,12 @@
 
 # Memory Game
 
-Memory game built with React. Refresh until the images are correct if issue.
+Memory game. Get to 18 to win! 
+Refresh until the images are correct if there's issue.
 
-Working highscore with session storage. 
+Working high score with session storage. 
 
-Practicing React.. 
+Practicing React. :)
 
 ## Getting Started
 
